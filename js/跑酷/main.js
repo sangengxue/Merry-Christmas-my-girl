@@ -2840,7 +2840,7 @@ var link, jsGame; (function() {
 		function(e, t) {
 			e.init(window.innerWidth, window.innerHeight).pushImage([{
 					id: "logo",
-					src: "images/ygdbns.jpg"
+					src: "img/跑酷/ygdbns.jpg"
 				},
 					{
 						id: "btns1",
