@@ -1,0 +1,18 @@
+
+
+button{border: none;}
+
+
+/*红包*/
+.red{width: 40%; height:40vw; margin:0 auto; position: relative; }
+.red img{width: 56%; background-position: center; background-repeat: no-repeat; top: 5%; left: 22%; position: absolute; border-top-left-radius:10px; border-top-right-radius:10px;}
+.red>button{position: absolute; top: 32%; left: 40%; font-size:5vw; width: 20%; height: 20%; border-radius: 100%; background: #fdc339; color: #fff;}
+.red-jg{display: none; position:absolute; top: 32%; left:0; width:100%; text-align: center; }
+.red-jg>h1{font-size: 2vw; color: #ffc000; line-height: 40px;}
+.red-jg>h4{color: #fff;}
+
+
+/*按钮*/
+.t-btn{padding: 10px;}
+.t-btn>button{width: 100%; background: #ff4242; border-radius: 5px; color: #fff; line-height: 40px; font-size: 14px;}
+
